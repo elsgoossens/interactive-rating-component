@@ -92,7 +92,7 @@ p, .rate{
     margin-bottom: 2.2rem ;
 }
 
-.rating-score .rate{
+.rate{
     font-weight: var(--fw-700);
     border-radius: 50%;
     padding: 1.2rem 2rem;

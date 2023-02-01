@@ -50,7 +50,11 @@ On desktop
 
 ### What I learned
 
-That I still have gaps in my javascript knowledge and need to study it more
+Questions I have
+****************
+- Used title to store score info text of thank you, is that correct usage of title?
+- I get aria-expand is not allowed on div, how should i indicate this then?
+- I need to give the div rating and thank-you a role, I have no idea what that needs to be
 
 ### Continued development
 
