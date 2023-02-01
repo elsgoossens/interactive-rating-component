@@ -36,7 +36,7 @@ On desktop
 ### Links
 
 - Solution URL: [Git repo] interactive rating component(https://github.com/elsgoossens/interactive-rating-component.git)
-- Live Site URL: [Live site interactive rating component](https://elsgoossens.github.io/interactive-rating-component/)
+- Live Site URL: [Live site interactive rating component](https://elsgoossens.github.io/interactive-rating-component)
 
 ## My process
 
